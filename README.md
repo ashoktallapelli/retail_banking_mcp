@@ -1,6 +1,6 @@
 # Retail Banking System
 
-A simple retail banking system implemented using Python, SQLite, FastAPI, and MCP. The system provides banking operations through both REST API endpoints and MCP tools interface.
+A simple retail banking system implemented using Python, SQLite, and MCP. The system provides banking operations through MCP tools interface.
 
 ## Features
 
