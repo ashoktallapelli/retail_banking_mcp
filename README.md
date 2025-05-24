@@ -2,7 +2,7 @@
 
 A simple retail banking system implemented using Python, SQLite, and MCP. The system provides banking operations through MCP tools interface.
 
-
+[![Watch the video]](https://github.com/ashoktallapelli/retail_banking_mcp/blob/main/media/Claude_MCP.mp4)
 
 ## Features
 
